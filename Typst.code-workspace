@@ -1,0 +1,18 @@
+{
+	/* Just use everything in this folder */
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	/* Used Extensions */
+	"extensions": {
+		"recommendations": [
+			"davidlday.languagetool-linter",
+			"hediet.vscode-drawio",
+			"myriad-dreamin.tinymist",
+			"Gruntfuggly.todo-tree"
+		],
+	}
+}

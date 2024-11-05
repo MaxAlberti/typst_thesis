@@ -1,0 +1,6 @@
+{
+    "example-code": {
+        "readme": "../../../assets/code//example-code/README.md",
+        "tree": "- \"example-code\" -\n├── \"src\"\n│   └── \"main.c\"\n└── \"README.md\""
+    }
+}

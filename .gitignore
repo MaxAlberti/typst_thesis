@@ -1,0 +1,7 @@
+*/__pycache__/*
+scripts/__pycache__/generate_appendix.cpython-312.pyc
+assets/bib/files/*/pages
+assets/bib/files/*/website.pdf
+assets/*/*.zip
+*.lock
+*.zip
